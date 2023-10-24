@@ -1,1 +1,1 @@
-# hegyek
+# Zengő rezponzivitás
